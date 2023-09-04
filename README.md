@@ -1,6 +1,3 @@
-# AtliQ-Hardware-Final-Report
-**Project README**
-
 # AtliQ Hardware Growth and Data Insights Project
 
 ## Overview
